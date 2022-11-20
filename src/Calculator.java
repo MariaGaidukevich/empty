@@ -1,8 +1,8 @@
 //Задание 1
 public class Calculator {
-    public long Sum (long x, long y) {return x+y;}
     public int Sum (int x, int y) {return x+y;}
     public double Sum (double x, double y) {return x+y;}
+    public long Sum (long x, long y) {return x+y;}
     public int Sub (int x, int y) {return x-y;}
     public double Sub (double x, double y) {return x-y;}
     public long Sub (long x, long y) {return x-y;}

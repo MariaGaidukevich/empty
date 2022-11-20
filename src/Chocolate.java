@@ -13,6 +13,6 @@ public class Chocolate {
        this.sugarFree=sugarFree;
     }
     public void info(){
-       System.out.printf("Type:%s\tCacao:%d\tSugarfree:%b\n",type,cacaoPercent,sugarFree);
+       System.out.printf("Type: %s\tCacao: %d\tSugarfree: %b\n",type,cacaoPercent,sugarFree);
    }
 }

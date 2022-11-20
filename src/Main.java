@@ -7,9 +7,9 @@ public class Main {
         System.out.println(calculator.Sub(4.5,5.5));
         System.out.println(calculator.Mul(1000,1000));
         System.out.println(calculator.Div(4.4,5));
+
         //Задание 2
         Chocolate milk=new Chocolate("milk",30,false);
         milk.info();
-
     }
 }
