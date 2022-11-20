@@ -1,7 +1,7 @@
-
 public class Main {
     public static void main(String[] args) {
-       //Задание 1
+
+        //Задание 1
         Calculator calculator = new Calculator();
         System.out.println(calculator.Sum(485842415859L,55554334435L));
         System.out.println(calculator.Sub(4.5,5.5));
